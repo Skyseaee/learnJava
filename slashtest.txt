@@ -1,0 +1,2 @@
+git slashtest test slach function
+fix the bug
